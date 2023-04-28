@@ -1,0 +1,88 @@
+@font-face {
+   font-family: 'Bellota';
+   src: url('../fonts/Bellota-Bold.woff2') format('woff2'), url('../fonts/Bellota-Bold.woff') format('woff');
+   font-display: swap;
+   font-style: normal;
+   font-weight: 700;
+}
+
+@font-face {
+   font-family: 'Bellota';
+   src: url('../fonts/Bellota-BoldItalic.woff2') format('woff2'), url('../fonts/Bellota-BoldItalic.woff') format('woff');
+   font-display: swap;
+   font-style: italic;
+   font-weight: 700;
+}
+
+@font-face {
+   font-family: 'Bellota';
+   src: url('../fonts/Bellota-Regular.woff2') format('woff2'), url('../fonts/Bellota-Regular.woff') format('woff');
+   font-display: swap;
+   font-style: normal;
+   font-weight: 400;
+}
+
+@font-face {
+   font-family: 'Bellota';
+   src: url('../fonts/Bellota-Italic.woff2') format('woff2'), url('../fonts/Bellota-Italic.woff') format('woff');
+   font-display: swap;
+   font-style: italic;
+   font-weight: 400;
+}
+
+@font-face {
+   font-family: 'BlackerMono';
+   src: url('../fonts/BlackerMono-Bold.woff2') format('woff2'), url('../fonts/BlackerMono-Bold.woff') format('woff');
+   font-display: swap;
+   font-weight: 700;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'BlackerMono';
+   src: url('../fonts/BlackerMono-Medium.woff2') format('woff2'), url('../fonts/BlackerMono-Medium.woff') format('woff');
+   font-display: swap;
+   font-weight: 500;
+   font-style: normal;
+
+}
+
+@font-face {
+   font-family: 'BlackerMono';
+   src: url('../fonts/BlackerMono-Regular.woff2') format('woff2'), url('../fonts/BlackerMono-Regular.woff') format('woff');
+   font-display: swap;
+   font-weight: 400;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'GREATESTGENERAL';
+   src: url('../fonts/GREATESTGENERAL-BOLD.woff2') format('woff2'), url('../fonts/GREATESTGENERAL-BOLD.woff') format('woff');
+   font-display: swap;
+   font-weight: 700;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'GREATESTGENERAL';
+   src: url('../fonts/GREATESTGENERAL-REGULAR.woff2') format('woff2'), url('../fonts/GREATESTGENERAL-REGULAR.woff') format('woff');
+   font-display: swap;
+   font-weight: 400;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Labrada';
+   src: url('../fonts/Labrada-Regular.woff2') format('woff2'), url('../fonts/Labrada-Regular.woff') format('woff');
+   font-display: swap;
+   font-weight: 400;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Labrada';
+   src: url('../fonts/Labrada-Italic.woff2') format('woff2'), url('../fonts/Labrada-Italic.woff') format('woff');
+   font-display: swap;
+   font-weight: 400;
+   font-style: italic;
+}

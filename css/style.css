@@ -1,0 +1,163 @@
+header {
+   height: 250px;
+   background-color: #5d5097;
+}
+
+.head-text {
+   text-align: center;
+   text-transform: uppercase;
+   letter-spacing: 5px;
+   font-size: 50px;
+   text-shadow: 5px 0px 5px #0e0a3c;
+   color: rgb(221, 227, 138);
+   font-family: GREATESTGENERAL, decorative;
+   font-weight: 700;
+   font-style: normal;
+
+}
+
+.third-blok img {
+   width: 350px;
+   height: 200px;
+}
+
+img {
+   width: 150px;
+   height: 200px;
+}
+
+
+body {
+   background-color: rgba(32, 103, 203, 0.25);
+}
+
+div {
+   padding: 25px;
+   border: 5px solid #5d5097;
+   margin: 5px 20px;
+   color: #600e0e;
+   background-color: rgba(191, 203, 32, 0.25);
+}
+
+div>p {
+   word-spacing: 10px;
+   font-size: 25px;
+}
+
+p {
+   text-indent: 30px;
+}
+
+h2 {
+   text-align: center;
+   font-size: 35px;
+
+}
+
+
+.first-blok ul,
+.first-blok a {
+   font-family: Bellota, cursive;
+   font-style: normal;
+   font-weight: 700;
+}
+
+.first-blok {
+   font-family: Bellota, cursive;
+   font-style: italic;
+   font-weight: 700;
+   text-shadow: 2px 0px 2px rgb(84, 34, 178);
+}
+
+.first-blok>p {
+   font-family: Bellota, cursive;
+   font-style: normal;
+   font-weight: 400;
+}
+
+.first-blok>p.first-text {
+   font-family: Bellota, cursive;
+   font-style: italic;
+   font-weight: 400;
+}
+
+.first-blok span {
+   text-decoration: line-through;
+}
+
+.second-blok ul {
+   font-family: BlackerMono, monospace;
+   font-weight: 600;
+   font-style: normal;
+
+}
+
+.second-blok {
+   font-family: BlackerMono, monospace;
+   font-weight: 700;
+   font-style: normal;
+
+}
+
+.second-blok ul,
+.second-blok a {
+   font-family: BlackerMono, monospace;
+   font-weight: 500;
+   font-style: normal;
+
+}
+
+.second-blok p {
+   font-family: BlackerMono, monospace;
+   font-weight: 400;
+   font-style: normal;
+}
+
+.second-blok span {
+   text-decoration: underline;
+}
+
+.third-blok {
+   font-family: Anton, sans-serif;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 1.5;
+   font-size: 25px;
+}
+
+.third-blok>p {
+   margin-top: 30px;
+}
+
+
+#menu {
+   font-family: GREATESTGENERAL, decorative;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 1.5;
+}
+
+.forth-blok {
+   font-family: Labrada, serif;
+   font-style: italic;
+   font-weight: 400;
+   text-shadow: 2px 0px 2px rgba(84, 34, 178, 0.5);
+}
+
+.forth-blok span {
+   text-decoration: overline;
+}
+
+footer p {
+   text-align: right;
+   font-family: Labrada, serif;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 30px;
+}
+
+footer {
+   margin: 0px 20px;
+   letter-spacing: 5px;
+   word-spacing: 25px;
+}
